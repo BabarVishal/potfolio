@@ -216,6 +216,15 @@ font-size: 30px;
     
 
   }
+  .card:hover{
+    height: 420px;
+    width: 320px;
+  border: 2px solid black;
+   border-radius: 23px;
+   cursor: pointer;
+   color: red;
+   background-color: white;
+  }
   .card img {
     width: 100%;
     border-radius: 23px;
@@ -256,9 +265,15 @@ font-size: 30px;
     border-radius: 14px;
     border: none;
     color: white;
+    font-size: 17px;
   }
   .card button:hover{
-    background-color: rgb(135, 135, 210);
+    /* background-color: rgb(135, 135, 210); */
+    cursor: pointer;
+    color: red;
+    background-color: white;
+    border: 1px solid black;
+   
   }
 
   .page3 h2 span{
