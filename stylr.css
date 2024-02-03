@@ -21,8 +21,7 @@ body,html{
 }
 
 .page1{
-    height: 700px;
-    width: 1700px;
+   
     background-color:rgb(31, 28, 28);
     position: absolute;
     margin: 180px;
